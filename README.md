@@ -1,5 +1,5 @@
-These projects are:
-1. Some new ideas in Reinforcement Learning
-  eg. Attention-RL, Learn-to-skip-frames-RL
-2. Implementation of papers
-  eg. end-to-end-negotiator, unreal, bootstrapped-dqn, distributional-RL
+These projects are: <br/>
+1. Some **new ideas** in Reinforcement Learning <br/>
+  eg. Attention-RL, Learn-to-skip-frames-RL <br/>
+2. **Implementation** of papers <br/>
+  eg. end-to-end-negotiator, unreal, bootstrapped-dqn, distributional-RL <br/>
